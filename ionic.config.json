@@ -1,0 +1,7 @@
+{
+  "name": "capacitor-camera-bug-repro",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
